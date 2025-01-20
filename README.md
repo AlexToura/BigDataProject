@@ -1,5 +1,5 @@
 # BigDataProject
-In this project we created a cloud MongoDB database which was populated by follow the steps as of below;
+In this project we created a cloud MongoDB database which was populated by following the steps as of below;
   1) Stock data for 8 famous tickers and for a 30-days period are downloaded from yahoo finance through python environment
   2) News for these tickers during given time period are downloaded through https://newsapi.org/ twice to take advantage of restricted requests :)
   3) We use Textblob library (NLP) to add a sentiment score to the contents of each of the news files
